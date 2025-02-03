@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Guzman</h1>
-<h3 align="center">"I am a student of Systems Engineering and FrontEnd developer💻</h3>
+<h3 align="center">"I am a Software Developer Focus on FrontEnd 💻</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
